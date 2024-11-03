@@ -7,7 +7,7 @@ Sepsis Prediction with Digital Phenotypes and Time Series Analysis
 -  **Student Name**: Urvik Harshadkumar Patel  
   **Student Number**: 1440623  
 - **Student Name**: Jiahao MA  
-  **Student Number**: 
+  **Student Number**: 1516228
 - **Student Name**: Yesheng Yao
   **Student Number**: 1108951
 
