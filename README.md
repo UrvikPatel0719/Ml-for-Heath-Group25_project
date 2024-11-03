@@ -39,28 +39,11 @@ This file mirrors `final_project`, with the primary difference being a 10-hour o
 1. **Install Anaconda/Miniconda**:
    - Download and install Anaconda/Miniconda from the [official website](https://www.anaconda.com/download).
 
-2. **Create a New Environment**:
-   - Open Anaconda Prompt (or terminal) and create a new environment:
-     ```bash
-     conda create --name sepsis_prediction python=3.9.6
-     ```
-   - Activate the environment:
-     ```bash
-     conda activate sepsis_prediction
-     ```
-
-3. **Install Required Packages**:
+2. **Install Required Packages**:
    - Install packages listed in `requirements.txt` by running:
      ```bash
      pip install -r requirements.txt
      ```
-
-4. **Run the Jupyter Notebook**:
-   - Start Jupyter Notebook:
-     ```bash
-     jupyter notebook
-     ```
-   - Open the relevant `.ipynb` files (if available) and execute cells to view results.
 
 ## Dependencies:
 The dependencies are specified in `requirements.txt` and include:
